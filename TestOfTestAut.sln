@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOfTestAut", "TestOfTestAut\TestOfTestAut.csproj", "{2881F895-A2A0-42C6-AE48-F4EE9DA1A49F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portalTests", "portalTests\portalTests.csproj", "{E79C2C14-1BE3-498E-BE25-808973117BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2881F895-A2A0-42C6-AE48-F4EE9DA1A49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2881F895-A2A0-42C6-AE48-F4EE9DA1A49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2881F895-A2A0-42C6-AE48-F4EE9DA1A49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2881F895-A2A0-42C6-AE48-F4EE9DA1A49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79C2C14-1BE3-498E-BE25-808973117BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79C2C14-1BE3-498E-BE25-808973117BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79C2C14-1BE3-498E-BE25-808973117BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79C2C14-1BE3-498E-BE25-808973117BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A1DAA6-9F59-497B-B5E6-A082E39813E1}
+	EndGlobalSection
+EndGlobal
